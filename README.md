@@ -1,1 +1,1 @@
-nichego sebe
+this my first repository
